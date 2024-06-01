@@ -6,13 +6,15 @@ we can encrypt them using ERC-2335 ( just a way to encrypt our private keys into
 cast wallet import <name of account> --interactive
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/faf6048f-bb81-4665-ab6d-fac881f0bdb1/8de283b5-58a7-4858-9f83-fc4b776f1a43/Untitled.png)
+![image](https://github.com/trippyseshh/Foundry101/assets/171026040/366ff25d-65c2-4d00-a915-65de863c9174)
+
 
 ```solidity
 cast wallet list
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/faf6048f-bb81-4665-ab6d-fac881f0bdb1/22ac750a-1ba9-4db9-980c-134d4fbd16a3/Untitled.png)
+![image](https://github.com/trippyseshh/Foundry101/assets/171026040/65cc0f0a-04e0-4161-a492-8074d31d32fe)
+
 
 ---
 
@@ -22,4 +24,5 @@ cast wallet list
 forge script script/practice.s.sol --rpc-url 127.0.0.1:8545 --account testaccount --sender 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 --broadcast -vvvv
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/faf6048f-bb81-4665-ab6d-fac881f0bdb1/2cd43d80-d2ca-4730-8225-f42ce604d725/Untitled.png)
+![image](https://github.com/trippyseshh/Foundry101/assets/171026040/44cefbbf-6e20-4276-a457-d788f12f17cf)
+
